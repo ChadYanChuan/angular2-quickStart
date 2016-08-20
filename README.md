@@ -1,4 +1,6 @@
-# Angular 2 QuickStart Source
+###对于官方项目进行了模块包处理 不至于 看起来那么乱,另外加了一个test 路由在里面...一切都是一个熟悉的过程...加油...
+
+# Angular 2 QuickStart Source 
 
 This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
 the foundation for most of the documentation samples and potentially a good starting point for your application.
